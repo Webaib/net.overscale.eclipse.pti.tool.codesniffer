@@ -22,7 +22,7 @@ import org.eclipse.jface.window.Window;
 import org.eclipse.php.internal.ui.preferences.IStatusChangeListener;
 import org.eclipse.php.internal.ui.preferences.util.Key;
 import org.eclipse.php.internal.ui.util.PixelConverter;
-import org.eclipse.php.internal.ui.wizards.fields.CheckedListDialogField;
+import net.overscale.eclipse.pti.ui.wizards.fields.CheckedListDialogField;
 import org.eclipse.php.internal.ui.wizards.fields.DialogField;
 import org.eclipse.php.internal.ui.wizards.fields.IDialogFieldListener;
 import org.eclipse.php.internal.ui.wizards.fields.IListAdapter;
